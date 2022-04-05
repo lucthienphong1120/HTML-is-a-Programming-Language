@@ -287,7 +287,3 @@ is:
 <do add-event-listener-id inc click on-inc-click></do>
 ```
 
-
-## License
-
-MIT
