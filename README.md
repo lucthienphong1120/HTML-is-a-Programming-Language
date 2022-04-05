@@ -287,11 +287,6 @@ is:
 <do add-event-listener-id inc click on-inc-click></do>
 ```
 
-## Author
-
-- [Mariano Guerra](https://marianoguerra.github.io/)
-- [@warianoguerra](https://twitter.com/warianoguerra)
-- [@marianoguerra@vis.social](https://vis.social/@marianoguerra)
 
 ## License
 
