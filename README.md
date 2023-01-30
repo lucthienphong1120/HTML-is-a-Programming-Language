@@ -1,6 +1,6 @@
 # HTML Is A Programming Language
 
-An extension to HTML to end the eternal discusion
+The following material is taken from a research project by an expert to end the eternal discusion.
 
 ## Language Overview
 
